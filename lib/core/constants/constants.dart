@@ -13,3 +13,5 @@ String kFrontShiny = 'front_shiny';
 String kPath = 'path';
 
 int maxPokemonId = 1008;
+
+bool isShiny = true;
