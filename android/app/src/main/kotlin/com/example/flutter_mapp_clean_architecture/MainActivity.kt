@@ -1,4 +1,4 @@
-package com.example.flutter_mapp_clean_architecture
+package com.example.poke_mapp
 
 import io.flutter.embedding.android.FlutterActivity
 
