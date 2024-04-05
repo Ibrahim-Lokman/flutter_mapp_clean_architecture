@@ -1,4 +1,4 @@
-# flutter_mapp_clean_architecture
+# poke_mapp
 
 Flutter Mapp Clean Architecture Project
 

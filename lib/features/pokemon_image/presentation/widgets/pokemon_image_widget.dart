@@ -1,8 +1,8 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_mapp_clean_architecture/features/pokemon_image/business/entities/pokemon_image_entity.dart';
-import 'package:flutter_mapp_clean_architecture/features/pokemon_image/presentation/providers/pokemon_image_provider.dart';
+import 'package:poke_mapp/features/pokemon_image/business/entities/pokemon_image_entity.dart';
+import 'package:poke_mapp/features/pokemon_image/presentation/providers/pokemon_image_provider.dart';
 import 'package:provider/provider.dart';
 
 import '../../../../../core/errors/failure.dart';

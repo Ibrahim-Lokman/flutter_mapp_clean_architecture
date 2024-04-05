@@ -1,7 +1,7 @@
 import 'package:data_connection_checker_tv/data_connection_checker.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_mapp_clean_architecture/features/pokemon_image/presentation/providers/pokemon_image_provider.dart';
+import 'package:poke_mapp/features/pokemon_image/presentation/providers/pokemon_image_provider.dart';
 import 'dart:math';
 import 'package:provider/provider.dart';
 

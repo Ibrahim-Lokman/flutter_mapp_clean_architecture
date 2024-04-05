@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:flutter_mapp_clean_architecture/core/constants/constants.dart';
+import 'package:poke_mapp/core/constants/constants.dart';
 import '../../../../../core/errors/exceptions.dart';
 import '../../../../../core/params/params.dart';
 import '../models/pokemon_image_model.dart';
